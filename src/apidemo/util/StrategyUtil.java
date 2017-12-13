@@ -17,4 +17,10 @@ public class StrategyUtil {
     public static boolean averageStockPrice(Contract contract){
       return false;
     }
+    
+    public static void storeOrderHistory(String timeStamp){
+       // check the time order created stock symbols, price, quantity, 
+       // total amount 
+       return;
+    }
 }
