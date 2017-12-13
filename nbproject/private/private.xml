@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/ApiDemo.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/client/Contract.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/controller/ApiController.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/MarketDataPanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/TopModel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/client/EClientMsgSink.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/client/Order.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/controller/AccountSummaryTag.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/AccountPositionsMultiPanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/client/Types.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/util/StrategyUtil.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/controller/ApiConnection.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/TicketDlg.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/util/NewTabbedPanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/AccountInfoPanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/client/EClient.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/TradesPanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/util/HtmlButton.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/client/EReader.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/StratPanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/client/EWrapper.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/client/EClientSocket.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/MarketValueSummaryPanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/TradingPanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/client/Util.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/AdvisorPanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/client/EDecoder.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/FileChoosePanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/OrdersPanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/AccountSummaryPanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/apidemo/ContractPanel.java</file>
+            <file>file:/C:/Users/Jyang/Documents/NetBeansProjects/JavaApplication2/src/com/ib/client/EReaderSignal.java</file>
+        </group>
+    </open-files>
+</project-private>
