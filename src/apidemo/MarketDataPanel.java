@@ -417,6 +417,13 @@ public class MarketDataPanel extends JPanel {
                 }           
             };
             
+            HtmlButton strategyStop = new HtmlButton("Stop Strategy"){
+                       @Override
+                protected void actionPerformed(){
+                    //onRunStrategy();
+                }  
+            };
+            
             VerticalPanel paramPanel = new VerticalPanel();
             paramPanel.add("End", m_end);
             paramPanel.add("Duration", m_duration);
